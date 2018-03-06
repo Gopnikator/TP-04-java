@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Etudiant
+comment0.text=\n\ Write\ a\ description\ of\ class\ Etudiant\ here.\n\n\ @author\ Alexandre\ Arnaud\ -\ Corentin\ Besnard\n\ @version\ 6\ mars\ 2018\n
+comment1.params=
+comment1.target=Etudiant()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Etudiant\n
+comment2.params=prenom\ nom
+comment2.target=Etudiant(java.lang.String,\ java.lang.String)
+comment3.params=nNom
+comment3.target=void\ setNom(java.lang.String)
+comment4.params=nPrenom
+comment4.target=void\ setPrenom(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getPrenom()
+comment6.params=
+comment6.target=java.lang.String\ getNom()
+comment7.params=
+comment7.target=int\ getNumEtudiant()
+numComments=8
