@@ -27,6 +27,8 @@ public class Etudiant
     public Etudiant(String prenom, String nom)
     {
         // initialise instance variables
+        this.prenom = prenom;
+        this.nom = nom;
         numEtudiant = cpt;
         cpt++;
     }

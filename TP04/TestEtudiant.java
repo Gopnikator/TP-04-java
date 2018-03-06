@@ -27,7 +27,7 @@ public class TestEtudiant
         
         Etudiant x = new Etudiant (prenomEtu, nomEtu);      
         
-        
+        System.out.println("Le nom de l'étudiant est : " + x.getPrenom() + " " + x.getNom() + ". Son numéro d'étudiant est " + x.getNumEtudiant() + ".");
         
     }
    
